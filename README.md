@@ -14,13 +14,13 @@ Para atinguir este objetivo, organizámos o reportório através das perguntas m
 
 ## Estrutura
 
-Todos os dados utilizados no reportório são retirados do `steam_games.csv`
+Todos os dados utilizados no reportório são retirados do [`steam_games.csv`](https://www.kaggle.com/datasets/trolukovich/steam-games-complete-dataset)
 
 O reportório encontra-se organizado através da ordenação aleatória das perguntas mais frequentes.
 
 ## Dicionário de Dados
 
-Explicação do significado das colunas de [`steam_games.csv`](https://www.kaggle.com/datasets/trolukovich/steam-games-complete-dataset)
+Explicação do significado das colunas de `steam_games.csv`
 
 | Nome | Significado |
 | --- | --- |
