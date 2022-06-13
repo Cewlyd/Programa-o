@@ -20,7 +20,7 @@ O reportório encontra-se organizado através da ordenação aleatória das perg
 
 ## Dicionário de Dados
 
-Explicação do significado das colunas de `steam_games.csv`
+Explicação do significado das colunas de [`steam_games.csv`](https://www.kaggle.com/datasets/trolukovich/steam-games-complete-dataset)
 
 | Nome | Significado |
 | --- | --- |
