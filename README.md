@@ -10,7 +10,7 @@ A plataforma "Steam" é uma das maiores plataformas de venda de jogos on-line do
 
 Com isto em mente, este reportório tem como objetivo contextualizar os utilizadores e futuros utilizadores da plataforma sobre o conteúdo que poderão encontrar nesta de uma maneira organizada e simples. Pode também ser usado para contextualizar não utilizadores sobre o funcionamento da plataforma e do comércio digital de jogos.
 
-Para atinguir este objetivo, organizámos o reportório através das perguntas mais frequentes dos utilizadores da plataforma, permitindo, em alguns campos, utilizar a perguntam como motor de busca de informação.
+Para atingir este objetivo, organizámos o reportório através das perguntas mais frequentes dos utilizadores da plataforma, permitindo, em alguns campos, utilizar a pergunta como motor de busca de informação.
 
 ## 🧩 Estrutura 🧩
 
